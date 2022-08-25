@@ -4,161 +4,161 @@
         "no": "No",
         "yes": "Yes",
         "none": "None",
-        "class1": "Warrior",
-        "class2": "Mage",
-        "class3": "Scout",
-        "class4": "Assassin",
-        "class5": "Battle Mage",
+        "class1": "Wojownik",
+        "class2": "Mag",
+        "class3": "Zwiadowca",
+        "class4": "Zabójca",
+        "class5": "Paladyn",
         "class6": "Berserker",
         "class7": "Demon Hunter",
         "class8": "Druid",
         "class9": "Bard",
-        "mask1": "Bear",
-        "mask2": "Cat",
-        "instrument0": "Harp",
-        "instrument1": "Lute",
-        "instrument2": "Flute",
-        "strength": "Strength",
-        "dexterity": "Dexterity",
-        "intelligence": "Intelligence",
-        "constitution": "Constitution",
-        "luck": "Luck",
-        "life_potion": "Eternal Life"
+        "mask1": "Niedźwiedź",
+        "mask2": "Kot",
+        "instrument0": "Harfa",
+        "instrument1": "Lutnia",
+        "instrument2": "Flet",
+        "strength": "Siła",
+        "dexterity": "Zręczność",
+        "intelligence": "Inteligencja",
+        "constitution": "Wytrzymałość",
+        "luck": "Szczęście",
+        "life_potion": "Eliksir żywotności"
     },
     "index": {
-        "admin": "Someone with a lot of free time",
-        "helper": "Helpers - Research, Testing, Feedback, etc.",
-        "tester": "Testers",
-        "cwm": "Chief Wiki Manager",
-        "others": "Other mentions",
+        "admin": "Osoba z dużą ilością czasu",
+        "helper": "Pomocnicy - Research, Testowanie, Opinie, itd.",
+        "tester": "Testerzy",
+        "cwm": "Główny Wiki Manager",
+        "others": "Inne",
         "toggle": "Toggle credits",
         "stats": {
-            "title": "Statistics",
-            "desc": "Track progress of yourself and your guild"
+            "title": "Statystyki",
+            "desc": "Śledź postępy swoje i gildii"
         },
         "temp": {
-            "title": "Playground",
-            "desc": "Create temporary instance of Statistics"
+            "title": "Plac zabaw",
+            "desc": "Stwórz tymczasową instancje statystyk"
         },
         "wiki": {
             "title": "Wiki",
-            "desc": "How to do magic with tables and much more"
+            "desc": "Jak działać z tabelami i wiele więcej"
         },
         "runes": {
-            "title": "Rune Bonuses",
-            "desc": "Zorago\"s rune bonus table"
+            "title": "Bonusy Run",
+            "desc": "Tabela run Zorago"
         },
         "inventory": {
-            "title": "Inventory Manager",
-            "desc": "Compare items, calculate upgrades & more"
+            "title": "Manager Ekwipunku",
+            "desc": "Porównaj przedmioty, obliczaj ulepszenia & inne"
         },
         "idle": {
             "title": "Arena Manager",
-            "desc": "Check the production of your Arena Manager"
+            "desc": "Sprawdź produkcję swojego Managera Areny"
         },
         "calendar": {
-            "title": "Pet Calendar",
-            "desc": "Look at when you can catch pets"
+            "title": "Kalendarz Pupili",
+            "desc": "Sprawdź, kiedy możesz złapać pupile"
         },
         "compare": {
-            "title": "Item Comparison",
-            "desc": "Look at what changes if you equip the new item"
+            "title": "Porównanie przedmiotów",
+            "desc": "Zobacz, co zmienia się po założeniu nowego przedmiotu"
         },
         "players": {
-            "title": "Fight Simulator",
-            "desc": "Simulate the probable outcome of a PvP battle"
+            "title": "Symulator Walk",
+            "desc": "Przesymuluj prawdopodobny wynik walki graczy"
         },
         "guild": {
-            "title": "Guild Simulator",
-            "desc": "Simulate the probable outcome of a guild battle"
+            "title": "Symulator Gildii",
+            "desc": "Przesymuluj prawdopodobny wynik walki gildii"
         },
         "pets": {
-            "title": "Pet Simulator",
-            "desc": "Simulate the probable outcome of a pet battle"
+            "title": "Symulator Pupili",
+            "desc": "Przesymuluj prawdopodobny wynik walki pupili"
         },
         "dungeons": {
-            "title": "Dungeon Simulator",
-            "desc": "Simulate the probable outcome of a dungeon battle"
+            "title": "Symulator Lochów",
+            "desc": "Przesymuluj prawdopodobny wynik walki w lochu"
         },
         "underworld": {
-            "title": "Underworld",
-            "desc": "Simulate the probably outcome of an underworld battle"
+            "title": "Podziemie",
+            "desc": "Przesymuluj prawdopodobny wynik walki w podziemiu"
         },
         "fights": {
-            "title": "Fight viewer",
-            "desc": "Display all PVP fights stored within archive file"
+            "title": "Podgląd walki",
+            "desc": "Wyświetl wszystkie walki PvP zapisane w archiwum"
         },
         "digest": {
-            "title": "Boss viewer",
-            "desc": "Display all PVE fights stored within archive file"
+            "title": "Podgląd bossa",
+            "desc": "Wyświetl wszystkie walki PvE zapisane w archiwum"
         },
         "atts": {
-            "title": "Gold & Experience",
-            "desc": "Curves & calculators"
+            "title": "Złoto & Doświadczenie",
+            "desc": "Wykresy & kalkulatory"
         },
         "smith": {
-            "title": "Blacksmith Upgrades",
-            "desc": "What it costs and what gets lost"
+            "title": "Ulepszenia kowala",
+            "desc": "Ile to kosztuje i co sie traci"
         },
         "hydra": {
-            "title": "Hydra Simulator",
-            "desc": "Simulate which guild pet class is best against current hydra."
+            "title": "Symulator hydry",
+            "desc": "Przesymuluj, aby dowiedzieć się jaka jest najefektywniejsza klasa przeciwko obecnej głowie hydry."
         }
     },
     "404": {
         "title": "404",
-        "text": "Not sure what you're looking for but it does not exist"
+        "text": "Nie wiem czego szukasz, ale tutaj tego nie ma"
     },
     "dungeons": {
-        "simulate": "Simulate",
-        "simulate_remaining": "Remaining",
-        "simulate_all": "All",
-        "player": "Player",
-        "enemy": "Enemy",
-        "yourself": "You",
-        "bert": "Bert",
-        "mark": "Mark",
-        "kunigunde": "Kunigunde",
-        "open": "Currently open dungeons",
+        "simulate": "Symuluj",
+        "simulate_remaining": "Pozostałe",
+        "simulate_all": "Wszystkie",
+        "player": "Gracz",
+        "enemy": "Przeciwnik",
+        "yourself": "Ty",
+        "bert": "Barbar",
+        "mark": "Mariusz",
+        "kunigunde": "Kunegunda",
+        "open": "Obecnie dostępne lochy",
         "graph": {
-            "y": "Boss HP Left",
-            "x": "- Distribution for selected amount of tries -"
+            "y": "Pozostałe HP Bossa",
+            "x": "- Dystrybucja dla wybranej ilości prób -"
         },
-        "results": "Results",
+        "results": "Wyniki",
         "cheats": {
             "title": "Cheat Menu",
-            "subtitle": "Select which cheats to apply and poll your character",
-            "enable": "Enable cheats",
+            "subtitle": "Wybierz cheaty i załaduj postać",
+            "enable": "Włącz cheaty",
             "general": "General",
-            "enchantments": "All enchantments",
-            "runes": "Maximum runes",
-            "pets": "Maximum pets",
-            "potions": "Potions (max 3)",
-            "class": "Change class",
-            "keep_original": "Keep original"
+            "enchantments": "Wszystkie czary",
+            "runes": "Maksymalne runy",
+            "pets": "Maksymakne pety",
+            "potions": "Eliksiry (max 3)",
+            "class": "Zmiana klasy",
+            "keep_original": "Zatrzymaj pierwotną"
         }
     },
     "editor": {
-        "name": "Name",
-        "class": "Class",
+        "name": "Nazwa",
+        "class": "Klasa",
         "level": "Level",
-        "mask": "Mask",
+        "mask": "Masja",
         "instrument": "Instrument",
-        "armor": "Armor",
+        "armor": "Pancerz",
         "min": "Min",
         "max": "Max",
         "weapon_enchant": "Crit",
-        "rune": "Rune",
-        "portal_damage": "Portal Damage",
-        "portal_health": "Portal Health",
-        "rune_health": "Rune Health",
-        "block": "Block %",
-        "fire": "Fire",
-        "cold": "Cold",
-        "lightning": "Lightning",
+        "rune": "Runa",
+        "portal_damage": "Obrażenia Portalu",
+        "portal_health": "Życie Portalu",
+        "rune_health": "Punkty Życia(runa)",
+        "block": "Blok %",
+        "fire": "Ogień",
+        "cold": "Zimno",
+        "lightning": "Błyskawice",
         "gladiator": "Gladiator (0 - 15)",
-        "life_potion": "Life Potion",
-        "hand_enchant": "Shadow of the Cowboy",
-        "smart_change": "Smart class change"
+        "life_potion": "Eliksir żywotności",
+        "hand_enchant": "Cień Kowboja",
+        "smart_change": "Sprytna Zmiana Klasy"
     }
 }
